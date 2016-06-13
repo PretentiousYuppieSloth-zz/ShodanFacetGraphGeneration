@@ -4,7 +4,7 @@ Generating graphs from shodan data.
 
 
 
-# - By Ketil.dk 
+#By Ketil.dk 
 # - 
 # - I wanted to get a better understanding of the usage of a API, so shodan seemed like a great place to start.
 # - ShodanFacetBarGeneration.py takes a search chriteria and generates graphs and shares a bit of data
