@@ -1,0 +1,4 @@
+#Consider using configparser instead https://martin-thoma.com/configuration-files-in-python/
+
+Settings:
+    apikey: API KEY GOES HERE
