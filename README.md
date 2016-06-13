@@ -12,8 +12,10 @@ First get a shodan API key and put it in the config.yml
 Data is pullled from Shodan and graphs are generated and saved to Results/SEARCHID directory.  
 
 #####You can use several different shodan search criteria.
-###### python ShodanFacetGraphGeneration.py net:x.x.x.0/24	#port distribution for ip range
-###### python ShodanFacetGraphGeneration.py apache		#port distribution for machines responding to apache keyword
+###### python ShodanFacetGraphGeneration.py net:x.x.x.0/24	
+Port distribution for ip range
+###### python ShodanFacetGraphGeneration.py apache		
+Port distribution for machines responding to apache keyword
 
 
 
