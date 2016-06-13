@@ -11,7 +11,7 @@ ShodanFacetBarGeneration.py takes a search chriteria and generates graphs and sh
 You can give it common shodan search chriteria like net:x.x.x.0/24  or search for a technology like apache, synology, IIS or the like
 
 TODO
-        ! Fix horrible security issues (of course they are in here somewhere)
+	Fix horrible security issues (of course they are in here somewhere)
 		Actually locate said security issues.
 
 	Create folder based on the name of the search, containing datasets and generated pictures etc.
